@@ -20,7 +20,7 @@ Content-Type: application/json
 }
 
 ### 분석 상태 조회 API
-@mealId = 1
+@mealId = 5
 GET {{url}}/api/v1/meals/{{mealId}}/analysis
 
 ### 재분석 요청 API
